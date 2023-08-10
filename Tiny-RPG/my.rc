@@ -1,0 +1,6 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+id ICON "favicon.ico"
+
+#endif // _resource_rc
